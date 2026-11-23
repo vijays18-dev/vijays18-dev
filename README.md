@@ -78,7 +78,7 @@ Here are some of my programming and development projects:
 
 I'm always interested in connecting with developers, learning from the community, and exploring opportunities to collaborate.
 
-- 💻 GitHub: "@vijays-dev" (https://github.com/vijays-dev)
+- 💻 GitHub: "@vijays-dev" (https://github.com/vijays18-dev)
 - 🔗 LinkedIn: "Connect with me" (ADD_YOUR_LINKEDIN_URL_HERE)
 
 ---
